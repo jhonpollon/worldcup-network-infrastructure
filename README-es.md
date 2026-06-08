@@ -16,9 +16,9 @@ Este proyecto consiste en el diseño e implementación de una topología de red 
 
 ## 🗺️ Arquitectura de la Red (Topología)
 * **Router Mundial (Backbone Central)**
-* **Red Troncal Canadá:** 
-* **Red Troncal USA:**
-* **Red Troncal México:** 
+* **Red Troncal Canadá:** `10.64.0.0/14`
+* **Red Troncal USA:** `10.128.0.0/14`
+* **Red Troncal México:** `10.192.0.0/14`
 
 <img width="2334" height="775" alt="image" src="https://github.com/user-attachments/assets/77c7dc99-42e1-4312-a7ee-0a3ae699ec8d" />
 
